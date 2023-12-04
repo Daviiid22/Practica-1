@@ -13,10 +13,6 @@ header {
     justify-content: space-around; /* Centra los elementos horizontalmente */
     align-items: center;
 }
-
-#logo-link {
-    display: block; /* Hace que el enlace sea un bloque para ocupar el espacio deseado */
-}
 nav ul {
     list-style-type: none;
     margin: 0;
