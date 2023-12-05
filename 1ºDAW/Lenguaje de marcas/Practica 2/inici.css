@@ -51,6 +51,11 @@ nav li:hover {
     height: 600px;
     min-width: 10px;
     transition: all .5s;
+    border: 2px black solid;
+}
+.fotoGrande h1{
+    color: rgb(78, 78, 167);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .Jude{
     border-radius: 10px;
@@ -65,6 +70,7 @@ nav li:hover {
 }
 .fila2 img{
     transition: all .5s;
+    border: 2px black solid;
 }
 .fila2 img:hover{
     transform: scale(1.09);
@@ -74,11 +80,9 @@ nav li:hover {
     justify-content: space-around;
     margin-left: 50px;
     text-align: center;
+    color: rgb(78, 78, 167);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
-
-
-
 footer {
     background-color: #333;
     color: #fff;

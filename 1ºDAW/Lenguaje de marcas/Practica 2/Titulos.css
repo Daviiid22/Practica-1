@@ -45,11 +45,20 @@ nav li:hover {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    margin-bottom: 0;
 }
 .palmares h1{
     display: flex;
     justify-content: center;
-}.cajagrande1{
+}
+#P2{
+    border: 3px solid goldenrod;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+.cajagrande1{
     width: 100%;
     height: auto;
     display: flex;
