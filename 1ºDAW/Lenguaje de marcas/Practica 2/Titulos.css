@@ -475,6 +475,38 @@ nav li:hover {
     align-items: center;
     margin-top: 50px;
 }
+.cajagrande14{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.trofeo14{
+    height: auto;
+    width: 70%;
+    border: 2px solid #333; /* Borde sólido de 2 píxeles de ancho y color negro (#333) */
+    border-radius: 10px; 
+    background-color: #dbd8d8;
+}
+.derecha14{
+    float: right;
+    border-radius: 10px; 
+}
+.izquierda14{
+    float: left;
+    width: 220px;
+    height: 260px;
+    margin-left: 50px;
+}
+.tt14{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
 
 
 
