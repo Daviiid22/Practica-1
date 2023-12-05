@@ -52,6 +52,9 @@ nav li:hover {
     min-width: 10px;
     transition: all .5s;
 }
+.Jude{
+    border-radius: 10px;
+}
 .Jude:hover {
     transform: scale(1.09); /* Escala la foto al 120% al pasar el ratón sobre ella */
 }
