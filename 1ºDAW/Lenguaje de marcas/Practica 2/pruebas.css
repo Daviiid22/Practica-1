@@ -49,7 +49,8 @@ nav li:hover {
 .palmares h1{
     display: flex;
     justify-content: center;
-}.cajagrande1{
+}
+.cajagrande1{
     width: 100%;
     height: auto;
     display: flex;
@@ -76,38 +77,8 @@ nav li:hover {
     align-items: center;
     margin-top: 50px;
 }
-.cajagrande2{
-    width: 100%;
-    height: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-}
-.trofeo2{
-    height: auto;
-    width: 70%;
-    border: 2px solid #333; /* Borde sólido de 2 píxeles de ancho y color negro (#333) */
-    border-radius: 10px; 
-    background-color: #dbd8d8;
-}
-.derecha{
-    float: right;
-    border-radius: 10px; 
-}
-.izquierda{
-    float: left;
-    width: 220px;
-    height: 260px;
-    margin-left: 50px;
-}
-.tt2{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 30px;
-}
+
+
 
 
 
