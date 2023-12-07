@@ -46,10 +46,13 @@ nav li:hover {
 .plantilla{
     display: flex;
     justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .titulo{
     margin-left: 30px;
     font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
 }
 .porteros{
     display: flex;
@@ -65,7 +68,7 @@ nav li:hover {
 .uno{
     display: flex;
     justify-content: space-between;
-    position: absolute;
+    position: fixed;
     z-index: 1;
     left: 13%;
     top: 75%;
