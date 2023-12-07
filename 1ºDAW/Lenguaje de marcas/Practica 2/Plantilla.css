@@ -41,6 +41,8 @@ nav a:hover {
 nav li:hover {
     transform: scale(1.1); /* Agranda el elemento al pasar el mouse */
 }
+
+
 .plantilla{
     display: flex;
     justify-content: center;
@@ -58,6 +60,27 @@ nav li:hover {
     border: 2px black solid;
     background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
     transition: all .5s;
+    position: relative;
+}
+.uno{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 13%;
+    top: 75%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.uno h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.uno p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
 }
 .porteros img:hover{
     transform: scale(1.09);
