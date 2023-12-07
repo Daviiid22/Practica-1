@@ -80,6 +80,10 @@ nav li:hover {
 .tt1 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt1 h6{
+    color: #333;
 }
 .tt1{
     display: inline-block;
@@ -118,6 +122,10 @@ nav li:hover {
 .tt2 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt2 h6{
+    color: #333;
 }
 .tt2{
     display: flex;
@@ -155,6 +163,10 @@ nav li:hover {
 .tt3 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt3 h6{
+    color: #333;
 }
 .tt3{
     display: inline-block;
@@ -192,6 +204,10 @@ nav li:hover {
 .tt4 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt4 h6{
+    color: #333;
 }
 .tt4{
     display: flex;
@@ -229,6 +245,10 @@ nav li:hover {
 .tt5 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt5 h6{
+    color: #333;
 }
 .tt5{
     display: inline-block;
@@ -274,11 +294,13 @@ nav li:hover {
 .tt6 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
 }
 .tt6 h6{
     margin-left: 30px;
     margin-right: 15px;
     text-align: center;
+    color: #333;
 }
 .cajagrande7{
     width: 100%;
@@ -308,11 +330,13 @@ nav li:hover {
 .tt7 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
 }
 .tt7 h6{
     margin-left: 20px;
     margin-right: 20px;
     text-align: center;
+    color: #333;
 }
 .tt7{
     display: inline-block;
@@ -350,6 +374,10 @@ nav li:hover {
 .tt8 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt8 h6{
+    color: #333;
 }
 .tt8{
     display: flex;
@@ -387,6 +415,10 @@ nav li:hover {
 .tt9 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt9 h6{
+    color: #333;
 }
 .tt9{
     display: inline-block;
@@ -423,6 +455,10 @@ nav li:hover {
 .tt10 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt10 h6{
+    color: #333;
 }
 .tt10{
     display: flex;
@@ -460,6 +496,10 @@ nav li:hover {
 .tt11 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt11 h6{
+    color: #333;
 }
 .tt11{
     display: inline-block;
@@ -497,6 +537,10 @@ nav li:hover {
 .tt12 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt12 h6{
+    color: #333;
 }
 .tt12{
     display: flex;
@@ -534,11 +578,13 @@ nav li:hover {
 .tt13 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
 }
 .tt13 h6{
     margin-left: 20px;
     margin-right: 20px;
     text-align: center;
+    color: #333;
 }
 .tt13{
     display: inline-block;
@@ -576,6 +622,10 @@ nav li:hover {
 .tt14 h5{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-decoration: underline;
+    color: rgb(84, 84, 186);
+}
+.tt14 h6{
+    color: #333;
 }
 .tt14{
     display: flex;

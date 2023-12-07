@@ -41,7 +41,27 @@ nav a:hover {
 nav li:hover {
     transform: scale(1.1); /* Agranda el elemento al pasar el mouse */
 }
-
+.plantilla{
+    display: flex;
+    justify-content: center;
+}
+.titulo{
+    margin-left: 30px;
+    font-size: 3em;
+}
+.porteros{
+    display: flex;
+    justify-content: space-around;
+}
+.porteros img{
+    border-radius: 10px;
+    border: 2px black solid;
+    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    transition: all .5s;
+}
+.porteros img:hover{
+    transform: scale(1.09);
+}
 
 
 
