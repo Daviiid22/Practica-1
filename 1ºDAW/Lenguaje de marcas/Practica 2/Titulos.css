@@ -77,6 +77,10 @@ nav li:hover {
     float: left;
     border-radius: 10px; 
 }
+.tt1 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
 .tt1{
     display: inline-block;
     display: flex;
@@ -84,6 +88,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
+    font-size: 20px;
 }
 .cajagrande2{
     width: 100%;
@@ -110,12 +115,17 @@ nav li:hover {
     height: 260px;
     margin-left: 50px;
 }
+.tt2 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
 .tt2{
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
     margin-top: 30px;
+    font-size: 20px;
 }
 .cajagrande3{
     width: 100%;
@@ -142,6 +152,10 @@ nav li:hover {
     float: left;
     border-radius: 10px;
 }
+.tt3 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
 .tt3{
     display: inline-block;
     display: flex;
@@ -149,6 +163,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
+    font-size: 20px;
 }
 .cajagrande4{
     width: 100%;
@@ -173,7 +188,10 @@ nav li:hover {
     float: left;
     width: 220px;
     height: 260px;
-    margin-left: 50px;
+}
+.tt4 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
 .tt4{
     display: flex;
@@ -181,6 +199,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 30px;
+    font-size: 20px;
 }
 .cajagrande5{
     width: 100%;
@@ -207,6 +226,10 @@ nav li:hover {
     float: left;
     border-radius: 10px;
 }
+.tt5 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
 .tt5{
     display: inline-block;
     display: flex;
@@ -214,6 +237,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
+    font-size: 20px;
 }
 .cajagrande6{
     width: 100%;
@@ -238,7 +262,6 @@ nav li:hover {
     float: left;
     width: 220px;
     height: 260px;
-    margin-left: 50px;
 }
 .tt6{
     display: flex;
@@ -246,6 +269,16 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 30px;
+    font-size: 20px;
+}
+.tt6 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.tt6 h6{
+    margin-left: 30px;
+    margin-right: 15px;
+    text-align: center;
 }
 .cajagrande7{
     width: 100%;
@@ -272,6 +305,15 @@ nav li:hover {
     float: left;
     border-radius: 10px;
 }
+.tt7 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.tt7 h6{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
 .tt7{
     display: inline-block;
     display: flex;
@@ -279,6 +321,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
+    font-size: 20px;
 }
 .cajagrande8{
     width: 100%;
@@ -303,7 +346,10 @@ nav li:hover {
     float: left;
     width: 220px;
     height: 260px;
-    margin-left: 50px;
+}
+.tt8 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
 .tt8{
     display: flex;
@@ -311,6 +357,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 30px;
+    font-size: 20px;
 }
 .cajagrande9{
     width: 100%;
@@ -336,6 +383,10 @@ nav li:hover {
 .izquierda9{
     float: left;
     border-radius: 10px;
+}
+.tt9 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
 .tt9{
     display: inline-block;
@@ -368,7 +419,10 @@ nav li:hover {
     float: left;
     width: 220px;
     height: 260px;
-    margin-left: 50px;
+}
+.tt10 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
 .tt10{
     display: flex;
@@ -376,6 +430,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 30px;
+    font-size: 20px;
 }
 .cajagrande11{
     width: 100%;
@@ -402,6 +457,10 @@ nav li:hover {
     float: left;
     border-radius: 10px;
 }
+.tt11 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
 .tt11{
     display: inline-block;
     display: flex;
@@ -409,6 +468,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
+    font-size: 20px;
 }
 .cajagrande12{
     width: 100%;
@@ -433,7 +493,10 @@ nav li:hover {
     float: left;
     width: 220px;
     height: 260px;
-    margin-left: 50px;
+}
+.tt12 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
 .tt12{
     display: flex;
@@ -441,6 +504,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 30px;
+    font-size: 20px;
 }
 .cajagrande13{
     width: 100%;
@@ -467,6 +531,15 @@ nav li:hover {
     float: left;
     border-radius: 10px;
 }
+.tt13 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.tt13 h6{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
 .tt13{
     display: inline-block;
     display: flex;
@@ -474,6 +547,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
+    font-size: 20px;
 }
 .cajagrande14{
     width: 100%;
@@ -498,7 +572,10 @@ nav li:hover {
     float: left;
     width: 220px;
     height: 260px;
-    margin-left: 50px;
+}
+.tt14 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
 .tt14{
     display: flex;
@@ -506,6 +583,7 @@ nav li:hover {
     flex-direction: column;
     align-items: center;
     margin-top: 30px;
+    font-size: 20px;
 }
 
 

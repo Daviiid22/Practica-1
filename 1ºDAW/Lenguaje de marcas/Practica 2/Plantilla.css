@@ -3,6 +3,9 @@ body {
     margin: 0;
     padding: 0;
 }
+img{
+    border-radius: 10px;
+}
 
 header {
     background-color: #333;
@@ -38,50 +41,6 @@ nav a:hover {
 nav li:hover {
     transform: scale(1.1); /* Agranda el elemento al pasar el mouse */
 }
-.palmares{
-    width: 100%;
-    height: 80px;
-    font-family: 'Emojis', Arial, Helvetica, sans-serif;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-.palmares h1{
-    display: flex;
-    justify-content: center;
-}
-.cajagrande1{
-    width: 100%;
-    height: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-}
-.trofeo1{
-    height: auto;
-    width: 70%;
-    border: 2px solid #333; /* Borde sólido de 2 píxeles de ancho y color negro (#333) */
-    border-radius: 10px; 
-    background-color: #dbd8d8;
-}
-.trofeo1 img{
-    float: left;
-    border-radius: 10px; 
-}
-.tt1{
-    display: inline-block;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 50px;
-}
-
-
-
-
-
 
 
 
