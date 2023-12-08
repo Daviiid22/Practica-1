@@ -42,7 +42,6 @@ nav li:hover {
     transform: scale(1.1); /* Agranda el elemento al pasar el mouse */
 }
 
-
 .plantilla{
     display: flex;
     justify-content: center;
@@ -65,10 +64,13 @@ nav li:hover {
     transition: all .5s;
     position: relative;
 }
+.porteros img:hover{
+    transform: scale(1.09);
+}
 .uno{
     display: flex;
     justify-content: space-between;
-    position: fixed;
+    position: absolute;
     z-index: 1;
     left: 13%;
     top: 75%;
@@ -85,9 +87,247 @@ nav li:hover {
     font-size: x-large;
     -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
 }
-.porteros img:hover{
+.dos{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 46%;
+    top: 75%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dos h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.dos p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.tres{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 77%;
+    top: 75%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.tres h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.tres p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+hr{
+    border: #000 solid 2px;
+}
+.titulo2{
+    margin-left: 30px;
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
+}
+.defensa{
+    display: flex;
+    justify-content: space-around;
+}
+.defensa img{
+    border-radius: 10px;
+    border: 2px black solid;
+    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    transition: all .5s;
+    position: relative;
+}
+.defensa img:hover{
     transform: scale(1.09);
 }
+.cuatro{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 8.5%;
+    top: 155%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cuatro h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.cuatro p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.cinco{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 33.5%;
+    top: 155%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cinco h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.cinco p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.seis{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 60%;
+    top: 155%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.seis h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.seis p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.siete{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 85%;
+    top: 155%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.siete h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.siete p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.defensa2{
+    display: flex;
+    justify-content: space-around;
+}
+.defensa2 img{
+    border-radius: 10px;
+    border: 2px black solid;
+    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    transition: all .5s;
+    position: relative;
+}
+.defensa2 img:hover{
+    transform: scale(1.09);
+}
+.ocho{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 8%;
+    top: 206%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ocho h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.ocho p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.nueve{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 32%;
+    top: 206%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nueve h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.nueve p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.diez{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 58%;
+    top: 206%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.diez h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.diez p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.once{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 83%;
+    top: 206%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.once h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.once p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+
+
+
+
 
 
 
