@@ -6,7 +6,6 @@ body {
 img{
     border-radius: 10px;
 }
-
 header {
     background-color: #333;
     color: #fff;
@@ -22,11 +21,9 @@ nav ul {
     padding: 0;
     display: flex;
 }
-
 nav li {
     margin-right: 20px;
 }
-
 nav a {
     text-decoration: none;
     color: #fff;
@@ -34,14 +31,12 @@ nav a {
     font-size: 16px;
     transition: color 0.3s; /* Agrega una transición suave al color al pasar el mouse */
 }
-
 nav a:hover {
     color: #c3c1be;
 }
 nav li:hover {
     transform: scale(1.1); /* Agranda el elemento al pasar el mouse */
 }
-
 .plantilla{
     display: flex;
     justify-content: center;
@@ -60,7 +55,7 @@ nav li:hover {
 .porteros img{
     border-radius: 10px;
     border: 2px black solid;
-    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    background: linear-gradient(rgba(185, 185, 194), rgb(38, 38, 163));
     transition: all .5s;
     position: relative;
 }
@@ -143,7 +138,7 @@ hr{
 .defensa img{
     border-radius: 10px;
     border: 2px black solid;
-    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    background: linear-gradient(rgba(185, 185, 194), rgb(38, 38, 163));
     transition: all .5s;
     position: relative;
 }
@@ -237,7 +232,7 @@ hr{
 .defensa2 img{
     border-radius: 10px;
     border: 2px black solid;
-    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    background: linear-gradient(rgba(185, 185, 194), rgb(38, 38, 163));
     transition: all .5s;
     position: relative;
 }
@@ -337,7 +332,7 @@ hr{
 .centro1 img{
     border-radius: 10px;
     border: 2px black solid;
-    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    background: linear-gradient(rgba(185, 185, 194), rgb(38, 38, 163));
     transition: all .5s;
     position: relative;
 }
@@ -431,7 +426,7 @@ hr{
 .centro2 img{
     border-radius: 10px;
     border: 2px black solid;
-    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    background: linear-gradient(rgba(185, 185, 194), rgb(38, 38, 163));
     transition: all .5s;
     position: relative;
 }
@@ -631,7 +626,7 @@ hr{
 .ct img{
     border-radius: 10px;
     border: 2px black solid;
-    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    background: linear-gradient(rgba(185, 185, 194), rgb(38, 38, 163));
     transition: all .5s;
     position: relative;
 }
@@ -654,46 +649,32 @@ hr{
     font-size: x-large;
     -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
 }
-
-
-
-
-
-
-
-
 footer {
     background-color: #333;
     color: #fff;
     padding: 20px 0;
 }
-
 .footer-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-
 .footer-content p {
     margin: 0;
 }
-
 .footer-content ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-
 .footer-content li {
     display: inline;
     margin-right: 15px;
 }
-
 .footer-content a {
     color: #fff;
     text-decoration: none;
 }
-
 .footer-content a:hover {
     text-decoration: underline;
 }
