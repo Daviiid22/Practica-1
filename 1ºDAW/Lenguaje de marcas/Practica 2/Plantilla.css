@@ -518,6 +518,143 @@ hr{
     font-size: x-large;
     -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
 }
+.titulo4{
+    margin-left: 30px;
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
+}
+.del{
+    display: flex;
+    justify-content: space-around;
+}
+.del img{
+    border-radius: 10px;
+    border: 2px black solid;
+    background: linear-gradient(rgb(185, 185, 194), rgb(38, 38, 163));
+    transition: all .5s;
+    position: relative;
+}
+.del img:hover{
+    transform: scale(1.09);
+}
+.veinte{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 9%;
+    top: 418%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.veinte h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.veinte p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.vuno{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 32.5%;
+    top: 418%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.vuno h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.vuno p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.vdos{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 58%;
+    top: 418%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.vdos h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.vdos p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.vtres{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 83%;
+    top: 418%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.vtres h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.vtres p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.titulo5{
+    margin-left: 30px;
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
+}
+.ct{
+    display: flex;
+    justify-content: space-around;
+}
+.ct img{
+    border-radius: 10px;
+    border: 2px black solid;
+    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    transition: all .5s;
+    position: relative;
+}
+.ct img:hover{
+    transform: scale(1.09);
+}
+.vcuatro{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 45%;
+    top: 500%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.vcuatro p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+
 
 
 
