@@ -324,6 +324,200 @@ hr{
     font-size: x-large;
     -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
 }
+.titulo3{
+    margin-left: 30px;
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
+}
+.centro1{
+    display: flex;
+    justify-content: space-around;
+}
+.centro1 img{
+    border-radius: 10px;
+    border: 2px black solid;
+    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    transition: all .5s;
+    position: relative;
+}
+.centro1 img:hover{
+    transform: scale(1.09);
+}
+.doce{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 7.5%;
+    top: 287%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.doce h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.doce p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.trece{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 34.5%;
+    top: 287%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.trece h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.trece p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.catorce{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 58%;
+    top: 287%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.catorce h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.catorce p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.quince{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 82%;
+    top: 287%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.quince h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.quince p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.centro2{
+    display: flex;
+    justify-content: space-around;
+}
+.centro2 img{
+    border-radius: 10px;
+    border: 2px black solid;
+    background: linear-gradient(rgba(90, 90, 140), rgb(38, 38, 163));
+    transition: all .5s;
+    position: relative;
+}
+.centro2 img:hover{
+    transform: scale(1.09);
+}
+.dseis{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 7%;
+    top: 338%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dseis h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.dseis p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.dsiete{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 31%;
+    top: 338%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dsiete h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.dsiete p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.docho{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 56%;
+    top: 338%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.docho h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.docho p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
+.dnueve{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 1;
+    left: 82%;
+    top: 338%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dnueve h3{
+    font-size: 3em;
+    -webkit-text-stroke: 2px #000; /* Ancho y color del borde */
+}
+.dnueve p{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    -webkit-text-stroke: 1px #000; /* Ancho y color del borde */
+}
 
 
 
