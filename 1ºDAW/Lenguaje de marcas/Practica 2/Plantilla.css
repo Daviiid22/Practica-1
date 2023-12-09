@@ -678,3 +678,109 @@ footer {
 .footer-content a:hover {
     text-decoration: underline;
 }
+@media screen and (min-width: 375px) and (max-width: 431px) {
+    .titulo h4{
+        font-size: 30px;
+    }
+    .porteros img{
+        width: 100px;
+        height: auto;
+    }
+    .porteros article{
+        top: 43%;
+    }
+    .porteros article h3{
+        font-size: 12px;
+    }
+    .porteros article p{
+        font-size: 12px;
+    }
+    .titulo2 h4{
+        font-size: 30px;
+    }
+    .defensa img{
+        width: 80px;
+        height: auto;
+    }
+    .defensa article{
+        top: 77%;
+    }
+    .defensa article h3{
+        font-size: 12px;
+    }
+    .defensa article p{
+        font-size: 12px;
+    }
+    .defensa2 img{
+        width: 80px;
+        height: auto;
+    }
+    .defensa2 article{
+        top: 92%;
+    }
+    .defensa2 article h3{
+        font-size: 12px;
+    }
+    .defensa2 article p{
+        font-size: 12px;
+    }
+    .titulo3 h4{
+        font-size: 30px;
+    }
+    .centro1 img{
+        width: 80px;
+        height: auto;
+    }
+    .centro1 article{
+        top: 125%;
+    }
+    .centro1 article h3{
+        font-size: 12px;
+    }
+    .centro1 article p{
+        font-size: 12px;
+    }
+    .centro2 img{
+        width: 80px;
+        height: auto;
+    }
+    .centro2 article{
+        top: 140%;
+    }
+    .centro2 article h3{
+        font-size: 12px;
+    }
+    .centro2 article p{
+        font-size: 12px;
+    }
+    .titulo4 h4{
+        font-size: 30px;
+    }
+    .del img{
+        width: 80px;
+        height: auto;
+    }
+    .del article{
+        top: 174%;
+    }
+    .del article h3{
+        font-size: 12px;
+    }
+    .del article p{
+        font-size: 12px;
+    }
+    .titulo5 h4{
+        font-size: 30px;
+    }
+    .ct img{
+        width: 100px;
+        height: auto;
+    }
+    .ct article{
+        top: 210%;
+        left: 42%;
+    }
+    .ct article p{
+        font-size: 12px;
+    }
+}
